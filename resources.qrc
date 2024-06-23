@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/generalBackgroundImage.png</file>
+    <file>images/textBackgroundFrame.png</file>
+    <file>images/playButton.svg</file>
+    <file>images/triangleIconHover.png</file>
+    <file>images/ballon.png</file>
+    <file>images/triangleIcon.png</file>
+    <file>images/settingsScreen.png</file>
+    <file>images/startButtonHover.png</file>
+    <file>images/startButton.png</file>
+    <file>images/playButton.png</file>
+    <file>images/playButtonHover.png</file>
+    <file>images/introFrame.png</file>
+    <file>images/settingButtonHover.png</file>
+    <file>images/SettingsBackground.png</file>
+    <file>images/settingsLargeIcon.png</file>
+    <file>images/minimiseButton.png</file>
+    <file>images/settingButton.png</file>
+    <file>images/minimiseButtonHover.png</file>
+    <file>images/closeButtonHover.png</file>
+    <file>images/closeButton.png</file>
+    <file>images/HomeScreen.png</file>
+  </qresource>
+</RCC>
